@@ -1,0 +1,36 @@
+# URL=https://github.com/gsbn/dns-lists
+
+# Amazon promoted links
+@@||aax-eu.amazon-adsystem.com^
+# Google Search advert links
+@@||www.googleadservices.com^
+# Christies email links
+@@||mmtro.com^
+# Baby centre emails
+@@||cb.sailthru.com^
+# Tesla
+@@||telemetry-prd.ap.tesla.services^
+@@||telemetry-prd.vn.tesla.services^
+# Times App
+@@||api-2-0.spot.im^
+@@||pix.spot.im^
+# Images on People.com
+@@||imagesvc.meredithcorp.io^
+# Boots.com
+@@||libs.coremetrics.com^
+# Amazon App sponsored link
+@@||aan.amazon.co.uk^
+@@||aax-eu.amazon.co.uk^
+# Spotify activation links
+@@||wl.spotify.com^
+# Trainline
+@@||ablink.comms.trainline.com^
+# Boots App
+@@||socialize.eu1.gigya.com^
+# mentalfloss.com CDN
+@@||images2.minutemediacdn.com^
+@@||assets.minutemediacdn.com^
+# Instagram link
+@@||servedby.flashtalking.com^
+# Axis website
+@@||www.emea-comms.axis.com^
